@@ -1,1 +1,1 @@
-# sass-starter
+# sass-starter-float-layout
